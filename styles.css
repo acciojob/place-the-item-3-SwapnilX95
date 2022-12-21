@@ -1,2 +1,23 @@
+.holder
+  {
+    height: auto;
+    width: auto;
+    display:flex; 
+    justify-content: space-between; 
+    /* justify-content: space-around;  */
+    /* justify-content: space-evenly;  */
+    
+    align-items:flex-end;
+    flex-wrap: wrap; 
+  
+}
+.box{
+    /* display: flex; */
+    height :  100px;
 
-/* Your CSS Code here. */
+    width  :  100px;
+    
+    background-color: blue;
+    
+
+}
